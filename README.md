@@ -1,4 +1,4 @@
-\This is the code for one of the most classic "Tic-Tae-Toe" game. I have built this using Python language and pygame library.
+This is the code for one of the most classic "Tic-Tae-Toe" game. I have built this using Python language and pygame library.
 
 Requriements:
 
